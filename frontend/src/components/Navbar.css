@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  height: 70px;
+  align-items: center;
+  background: white;
+  width: 100%;
+  padding-left: 200px;
+  font-size: 26px;
+  font-weight: 600;
+}

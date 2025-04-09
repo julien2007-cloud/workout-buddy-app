@@ -1,0 +1,29 @@
+.form p {
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+.form div label {
+  font-weight: 500;
+}
+.form div input {
+  background: #fff;
+  outline: none;
+  padding-block: 8px;
+  border: none;
+  padding-inline: 50px;
+  margin-block: 13px;
+}
+.form div {
+  max-width: 140px;
+}
+.form button {
+  outline: none;
+  border: none;
+  background: #4caf4f;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+}
+.form {
+  padding-top: 50px;
+}

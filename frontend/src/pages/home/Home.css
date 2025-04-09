@@ -1,0 +1,40 @@
+/* * {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+} */
+.main-cont {
+  display: flex;
+  gap: 60px;
+  justify-content: center;
+}
+.all-workout-cont {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  padding-top: 50px;
+  background: #eff0f3;
+  height: calc(100% - 70px);
+}
+.workout-cont {
+  width: 700px;
+  background: #ffff;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+.trash-btn {
+  outline: none;
+  border: none;
+  background: none;
+  width: 30px;
+  height: 30px;
+}
+.top-block {
+  display: flex;
+  justify-content: space-between;
+}
+.top-block p {
+  color: #4caf4f;
+  font-weight: 600;
+}
